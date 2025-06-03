@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="img/overview.pdf" width="90%">
+  <img src="img/overview.png" width="90%">
 </p>
 
 ---
