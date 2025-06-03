@@ -23,4 +23,14 @@
 - 15 Annotators per image
 - 228K Annotations
 
-...
+---
+
+## 📌 Source Content
+<p align="center">
+  <img src="img/source_content.png" width="90%">
+</p>
+
+## 📌 Training and Testing Viewpoints Selection
+<p align="center">
+  <img src="img/train_test_selection.png" width="90%">
+</p>
