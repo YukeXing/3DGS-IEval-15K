@@ -32,5 +32,5 @@
 
 ## 📌 Training and Testing Viewpoints Selection
 <p align="center">
-  <img src="img/train_test_selection.png" width="90%">
+  <img src="img/train_test_selection.png" width="100%">
 </p>
