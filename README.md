@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="img/overview.png" width="90%">
+  <img src="img/overview.png" width="100%">
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ## 📌 Source Content
 <p align="center">
-  <img src="img/source_content.png" width="90%">
+  <img src="img/source_content.png" width="95%">
 </p>
 
 ## 📌 Training and Testing Viewpoints Selection
