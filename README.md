@@ -31,11 +31,11 @@
 
 3 Source 3DGS multi-view image dataset: 
 
-- DeepBlending：https://github.com/Phog/DeepBlending?tab=readme-ov-file （playroom, drjohnson）
+- **DeepBlending**：https://github.com/Phog/DeepBlending?tab=readme-ov-file （playroom, drjohnson）
 
-- mipnerf360：https://jonbarron.info/mipnerf360/ （bicycle, flowers, garden, kitchen, room, counter）
+- **Mipnerf360**：https://jonbarron.info/mipnerf360/ （bicycle, flowers, garden, kitchen, room, counter）
 
-- TanksandTemples:  https://www.tanksandtemples.org/download/ （train, truck）
+- **TanksandTemples**:  https://www.tanksandtemples.org/download/ （train, truck）
 
 ---
 
