@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2504.08358"><img src="https://img.shields.io/badge/arXiv-2504.08358-b31b1b.svg"></a>
-  <a href="https://huggingface.co"><img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow.svg"></a>
+  <a href="https://huggingface.co"><img src="https://huggingface.co/datasets/Chole12/3DGS-IEval-15K/tree/main"></a>
   <img src="https://img.shields.io/badge/Dataset-Available-brightgreen.svg">
 </p>
 
@@ -29,6 +29,16 @@
 <p align="center">
   <img src="img/source_content.png" width="95%">
 </p>
+
+3 Source 3DGS multi-view image dataset: 
+DeepBlending：https://github.com/Phog/DeepBlending?tab=readme-ov-file 
+- playroom, drjohnson 
+mipnerf360：https://jonbarron.info/mipnerf360/
+- bicycle, flowers, garden, kitchen, room, counter
+TanksandTemples:  https://www.tanksandtemples.org/download/ 
+- train, truck
+
+---
 
 ## 📌 Training and Testing Viewpoints Selection
 <p align="center">
