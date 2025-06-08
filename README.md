@@ -14,13 +14,13 @@
 ## 📌 Overview
 
 3DGS-IEval-15K is the first large-scale image quality assessment (IQA) dataset specifically designed for compressed 3DGS representations. It includes:
-- 6 representative 3DGS algorithms
-- 10 real-world scenes
-- 760 Trained 3DGS models
-- 20 strategically selected viewpoints
-- 15,200 images
-- 15 Annotators per image
-- 228K Annotations
+- **6** representative 3DGS algorithms
+- **10** real-world scenes
+- **760** Trained 3DGS models
+- **20** strategically selected viewpoints
+- **15,200** images
+- **15** Annotators per image
+- **228K** Annotations
 
 ---
 
@@ -29,7 +29,7 @@
   <img src="img/source_content.png" width="95%">
 </p>
 
-3 Source 3DGS multi-view image dataset: 
+**3 Source 3DGS multi-view image dataset:**
 
 - **DeepBlending**：https://github.com/Phog/DeepBlending?tab=readme-ov-file （playroom, drjohnson）
 
