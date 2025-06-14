@@ -22,7 +22,6 @@
 - **15** Annotators per image
 - **228K** Annotations
 
-The dataset can be downloaded at the following link: https://huggingface.co/datasets/Chole12/3DGS-IEval-15K
 ---
 
 ## 📌 Source Content
@@ -45,3 +44,4 @@ The dataset can be downloaded at the following link: https://huggingface.co/data
   <img src="img/train_test_selection.png" width="100%">
 </p>
 
+The dataset can be downloaded at the following link: https://huggingface.co/datasets/Chole12/3DGS-IEval-15K
