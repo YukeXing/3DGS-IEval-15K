@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2504.08358"><img src="https://img.shields.io/badge/arXiv-2504.08358-b31b1b.svg"></a>
+  <a href="https://arxiv.org/abs/2608.03279"><img src="https://img.shields.io/badge/arXiv-2608.03279-b31b1b.svg"></a>
   <a href="https://huggingface.co/datasets/Chole12/3DGS-IEval-15K/tree/main"><img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow.svg"></a>
 </p>
 
@@ -45,3 +46,30 @@
 </p>
 
 The dataset can be downloaded at the following link: https://huggingface.co/datasets/Chole12/3DGS-IEval-15K
+
+---
+
+## 📌 Citation
+
+If you use this dataset, please cite the following papers:
+
+(1) Xing Y, Wang J, Niu P, et al. 3dgs-ieval-15k: A large-scale image quality evaluation database for 3d gaussian-splatting[C]//Proceedings of the 33rd ACM International Conference on Multimedia. 2025: 12682-12689.
+
+(2) Xing Y, Wang J, Gordon W, et al. 3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment[J]. arXiv preprint arXiv:2608.03279, 2026.
+
+```bibtex
+@inproceedings{xing20253dgs,
+  title={3dgs-ieval-15k: A large-scale image quality evaluation database for 3d gaussian-splatting},
+  author={Xing, Yuke and Wang, Jiarui and Niu, Peizhi and Huang, Wenjie and Zhai, Guangtao and Xu, Yiling},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={12682--12689},
+  year={2025}
+}
+
+@article{xing20263dgsi,
+  title={3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment},
+  author={Xing, Yuke and Wang, Jiarui and Gordon, William and Li, Zhu and Zhai, Guangtao and Xu, Yiling},
+  journal={arXiv preprint arXiv:2608.03279},
+  year={2026}
+}
+```
